@@ -13,7 +13,6 @@
 
  </header>
         <div style="display:flex;justify-content:center"> <img class="LOGO"src="https://gamefaqs.gamespot.com/a/box/8/4/4/909844_side.jpg"> </div>
-           
         <nav>
         <br>
          <br>
@@ -25,7 +24,6 @@
             <img class="MJ" src="https://media.tenor.com/Max2gGkkQbsAAAAi/rage-angry.gif">
             <img class="TIM" src="https://media.tenor.com/hPbL02SuOv4AAAAi/lol-evil-laugh.gif">
             <img class="SHAR" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1012880/a70478c91028fdc150a41479ea4506a040155226.png">
-            
         </div> 
         </nav>
         </main>
